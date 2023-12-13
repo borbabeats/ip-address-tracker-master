@@ -1,0 +1,9 @@
+@media screen and (max-width: 500px) {
+    .bg-desktop {
+        display: none;
+    }
+
+    .bg-mobile {
+        display: block !important;
+    }
+}
